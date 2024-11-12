@@ -10,13 +10,13 @@ Files:
     ESP32 is used to host web server because it has Integrated Wi-Fi, Bluetooth Capabilities, Power Efficiency, Cost-Effectiveness, and Versatility for Traffic Simulation.
     These advantages make the ESP32 an efficient, affordable, and practical choice for creating a robust DDoS detection and analysis system in IoT environments.
 
-2. Attack.py
+2. Attack.py -
 This Python file simulates typical, low rate, and high rate DDOS scenarios.
 
-3. Detection.py
+3. Detection.py -
 This Python file is used to detect the attack and provide graphical visualization and analysis of these attacks.
 
-4. HTTP_Web_Server.py
+4. HTTP_Web_Server.py -
 This Python file is used to host a local HTTP web server.
 
 
